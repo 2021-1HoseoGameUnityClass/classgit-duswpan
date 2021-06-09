@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Platform
   - Bullet
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -14,8 +15,8 @@ TagManager:
   - Water
   - UI
   - Platform
-  - Enemy
-  - Player
+  - enemy
+  - player
   - 
   - 
   - 
